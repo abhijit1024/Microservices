@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "posts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,12 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "axios": "^1.9.0",
-    "body-parser": "^2.2.0",
+    "axios": "^1.7.5",
     "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
   }
 }
